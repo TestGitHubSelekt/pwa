@@ -1,6 +1,8 @@
 # Mendix-PWA-Example
 Turn your Mendix Application into a Progressive Web App.
 
+![Screenshot](githubImages/lighthouse.png)
+
 ## Getting started
 Download the packagefile and add it to your project.
 
