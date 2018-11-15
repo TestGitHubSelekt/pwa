@@ -7,8 +7,11 @@ Download the packagefile and add it to your project.
 ### Getting your homepage ready
 Make sure that your homepage has both JavaScript Snippets Widgets like in the `ExampleHome` page.
 ![Screenshot](githubImages/headers2.png)
+
 *The first Widget links to the Manifest file*
+
 ![Screenshot](githubImages/swcode.png)
+
 *The second Widget links to the Service Worker*
 
 ### Html headers
