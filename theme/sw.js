@@ -5,9 +5,9 @@ self.addEventListener('install', function(e) {
 				'/',
 				'/rest/manifest/v1/manifest.json',
 				'sw.js',
-				'/img/PWA$favicon.png',
-				'/img/PWA$logo512.png',
-				'/img/PWA$logo192.png'
+				'/img/PWA$Logos$favicon.png',
+				'/img/PWA$Logos$logo512.png',
+				'/img/PWA$Logos$logo192.png'
 			]);
 		})
 	);
